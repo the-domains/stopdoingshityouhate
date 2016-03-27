@@ -1,0 +1,28 @@
+name: stopdoingshityouhate
+favicon: null
+layout_spectrum: 0.9335483268368989
+typography_spectrum: 0.015611839247867465
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7004720724653453
+  lightness: 0.4778629741631448
+  saturation: 0.9994412162341177
+  rhythmicContrast: 0.9521729429252446
+purpose: []
